@@ -221,3 +221,12 @@ We successfully:
 This project shows how to deploy multiple EC2 instances with different paths and use an **Application Load Balancer** to distribute traffic based on URL paths. This approach improves scalability, makes deployments predictable, and simplifies routing across different back-end servers.
 
 ---
+## Contact
+
+If you face any issues or have questions, feel free to reach out to me:
+
+* **Email:** [kunalshinde066@gmail.com](mailto:kunalshinde066@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/kunal-shinde-1b17a2205/](https://www.linkedin.com/in/kunal-shinde-1b17a2205/)
+
+---
+
