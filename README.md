@@ -19,7 +19,7 @@ This project demonstrates how to:
 
 Below is the high-level architecture:  
 
-![alt text](Gemini_Generated_Image_qbmjgtqbmjgtqbmj.png)
+![alt text](image23.png)
 
 - **6 EC2 Instances**:  
   - 2 for Home  
@@ -57,7 +57,7 @@ Launch **six EC2 instances**:
 
 Use **Amazon Linux 2023** or Amazon Linux 2 AMI.
 
-📷 *Image Placeholder: EC2 Launch Screen*
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
@@ -168,8 +168,6 @@ After creating the ALB:
 * Forward to **Mobile Target Group**
 * Priority: **2**
 
-📷 *Image Placeholder: Listener Rules*
-
 ---
 
 ### 7. Test the ALB
@@ -193,7 +191,6 @@ Test in your browser:
     
     1)Mobile 1 instance![alt text](image-20.png)
     1)Mobile 2 instance![alt text](image-21.png)
-📷 *Image Placeholder: Testing ALB DNS*
 
 ---
 
